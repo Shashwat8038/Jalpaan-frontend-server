@@ -1,0 +1,285 @@
+[
+    {
+        "_id": "642c155b2c4774f05c36ee7a",
+        "name": "Kadai Paneer",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "/images/recipes/img2.jpg",
+        "category": "popular",
+        "price": 150
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee74",
+        "name": "Salad",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://i.ibb.co/W5T6Gmj/img3.png",
+        "category": "popular",
+        "price": 70
+    },
+   
+   
+    {
+        "_id": "642c155b2c4774f05c36ee7f",
+        "name": "Veg Noodles",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "/images/recipes/img5.png",
+        "category": "popular",
+        "price": 70
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7e",
+        "name": "Rolllll",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "/images/recipes/img6.jpg",
+        "category": "popular",
+        "price": 50
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7c",
+        "name": "chilli chicken",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "/images/recipes/img1.jpg",
+        "category": "popular",
+        "price": 120
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee1a",
+        "name": "Bread Omelette Single",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/BreadOmelete.png",
+        "category": "Bread Omelette",
+        "price": 30
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee1b",
+        "name": "Bread Omelette Double",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/BreadOmelete.png",
+        "category": "Bread Omelette",
+        "price": 40
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee1c",
+        "name": "Cheese Omelette Single",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/CheeseOmelete.png",
+        "category": "Bread Omelette",
+        "price": 40
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee1d",
+        "name": "Cheese Omelette Double",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/CheeseOmelete.png",
+        "category": "Bread Omelette",
+        "price": 50
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee1e",
+        "name": " Omelette Single",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/Omelete.png",
+        "category": "Bread Omelette",
+        "price": 20
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee1f",
+        "name": "Omelette Double",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/Omelete.png",
+        "category": "Bread Omelette",
+        "price": 30
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee1g",
+        "name": "Bioled Egg",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/BioledEgg.png",
+        "category": "Bread Omelette ",
+        "price": 25
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee1h",
+        "name": "Egg Fry",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/EggFry.png",
+        "category": "Bread Omelette",
+        "price": 40
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee1i",
+        "name": "Manchurian(8pcs)",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/Manchurian.png",
+        "category": "Chinese",
+        "price": 100
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee1j",
+        "name": "Corn Chaat",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/Corn.png",
+        "category": "Chinese",
+        "price": 50
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee1k",
+        "name": "Chilli Potato",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/ChilliPatato.png",
+        "category": "Chinese",
+        "price": 80
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee1l",
+        "name": "Chilli Panner(Dry/Gravy)",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/ChilliPaneer.png",
+        "category": "Chinese",
+        "price": 130
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee1m",
+        "name": "Chilli Chicken(Dry/Gravy)",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/ChilliChicken.png",
+        "category": "Chinese",
+        "price": 140
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee1n",
+        "name": "Chicken lollipop",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/Lollipop.png",
+        "category": "Chinese",
+        "price": 200
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee1o",
+        "name": "Chicken Salt & pepper",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/Salt&Pepper.png",
+        "category": "Chinese",
+        "price": 140
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee2a",
+        "name": "Allo da Paratha",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/Aloo.png",
+        "category": "Paratha",
+        "price": 25
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee2b",
+        "name": "Pyaaz Paratha",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/Onion.png",
+        "category": "Paratha",
+        "price": 30
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee2c",
+        "name": "Sada Paratha",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/Sada.png",
+        "category": "Paratha",
+        "price": 20
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee2d",
+        "name": "Paneer Paratha",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/Panner.png",
+        "category": "Paratha",
+        "price": 50
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee2e",
+        "name": "Egg Paratha",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/Sada.png",
+        "category": "Paratha",
+        "price": 35
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee2f",
+        "name": "Veg Roll",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/Veg.png",
+        "category": "Rolls & Noodles",
+        "price": 40
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee2g",
+        "name": "Egg Roll",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/Egg.png",
+        "category": "Rolls & Noodles",
+        "price": 50
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee2h",
+        "name": "Paneer Roll",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/Paneer.png",
+        "category": "Rolls & Noodles",
+        "price": 90
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee2i",
+        "name": "Veg Noodles",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/VegNoodles.png",
+        "category": "Rolls & Noodles",
+        "price": 50
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee2j",
+        "name": "Egg Noodles",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/EggNoodles.png",
+        "category": "Rolls & Noodles",
+        "price": 60
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee2k",
+        "name": "Spring Noodles",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/img6.jpg",
+        "category": "Rolls & Noodles",
+        "price": 90
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee3a",
+        "name": "Veg Fried Rice",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/VegRice.png",
+        "category": "Rice",
+        "price": 50
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee3b",
+        "name": "Egg Fried Rice",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/DoubleEgg.png",
+        "category": "Rice",
+        "price": 60
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee3c",
+        "name": "Double Egg Fried Rice",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/DoubleEgg.png",
+        "category": "Rice",
+        "price": 70
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee3d",
+        "name": "Chicken Fried Rice",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/ChickenFried.png",
+        "category": "Rice",
+        "price": 90
+    }
+
+]
